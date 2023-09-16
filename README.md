@@ -15,7 +15,8 @@ A key focus of the project was on a redundant network design, to limit single po
 
 Site 0 aims to simulate a simplified ISP network to allow routing exchanges between the two sites   
 
-### Limitations
+## Limitations  
+
 Due to limitations of thee packet tracer software I was not able to utilize the ASA firewalls as the configuration of firewalls in packet tracer is very limited and missing many important commands    
 
 To compensate for this i instead added routers configured to act as firewalls between the ISP and sites respectively    
