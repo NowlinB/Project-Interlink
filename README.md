@@ -27,5 +27,5 @@ WLC configuration would not save after many attempts to configure, so I believe 
 
 ## Project Motivation  
 
-After completing my CCNA certification in August (2023) I started this project as a way to demonstrate the skills and knowledge that I have acquired throughout my CCNA studies.
+After completing my [CCNA certification](https://www.credly.com/badges/4b167ab1-a8ea-4a65-9b16-5c970f8c235b/linked_in_profile) in August (2023) I started this project as a way to demonstrate the skills and knowledge that I have acquired throughout my CCNA studies.
 
