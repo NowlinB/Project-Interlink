@@ -1,3 +1,4 @@
 # Project-Interlink
 **A collapsed core network design utilizing Cisco's Packet Tracer software**
-![An image of the network topology](https://drive.google.com/file/d/1kxGtGJ7lzLdNvHpze6-NCUCGIAm6miqS/view?usp=sharing)
+![Project_Interlink_Topology_Full](https://github.com/NowlinB/Project-Interlink/assets/38094031/610e1c57-3300-4302-bdb3-900db980063f)
+
