@@ -2,7 +2,8 @@
 ## **A collapsed core network design utilizing Cisco's Packet Tracer software**
 ![Project_Interlink_Topology_Full](https://github.com/NowlinB/Project-Interlink/assets/38094031/610e1c57-3300-4302-bdb3-900db980063f)
 Protocols utilized: OSPF, SSH, Etherchannel using LACP, HSRP, NTP, FTP, DNS and DHCP server configuration  
-Network security considerations included the use of access-control lists (ACLs), dynamic arp inspection (DAI), port security, port address tranlsation (PAT), the principle of least privileg  
+
+Network security considerations included the use of access-control lists (ACLs), dynamic arp inspection (DAI), port security, port address tranlsation (PAT), the principle of least privilege
 Additionally all unused ports were placed in a shutdown state
 For the convenience of any individual opening the packet tracer file to obs the configurations, passwords have not be enabled on privilege exec mode, global configuration mode, and the console line
 OSPF Area 1 makes use of a DMZ/Perimeter network to isolate the email, NTP, file and web servers
