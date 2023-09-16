@@ -25,3 +25,7 @@ Only one router module (1841) in packet tracer allows for the configuration of I
 
 WLC configuration would not save after many attempts to configure, so I believe this to be a packet tracer software issue
 
+## Project Motivation  
+
+After completing my CCNA certification in August (2023) I started this project as a way to demonstrate the skills and knowledge that I have acquired throughout my CCNA studies.
+
